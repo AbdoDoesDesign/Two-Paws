@@ -33,7 +33,7 @@ tile_image = pygame.transform.scale(tile_image, (50, 50))  # Resize if needed
 
 # Tile settings
 TILE_SIZE = 50  # Size of each tile
-FLOOR_HEIGHT = 500  # Y-coordinate where the floor starts
+FLOOR_HEIGHT = 550 # Y-coordinate where the floor starts
 
 # Player 1 (controlled with arrow keys)
 current_player1_image = player1_image  # Default image for Player 1
