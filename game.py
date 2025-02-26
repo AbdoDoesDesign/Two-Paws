@@ -51,7 +51,7 @@ player2_facing_right = True  # Track direction
 
 # Physics settings
 GRAVITY = 0.5  # Strength of gravity
-JUMP_STRENGTH = -15  # Strength of the jump (negative because y increases downward)
+JUMP_STRENGTH = -10  # Strength of the jump (negative because y increases downward)
 
 # Speed variable
 speed = 5  # Adjust this value to control speed
